@@ -1,0 +1,9 @@
+applications:
+- path: dist\PruebaSpring.war
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: netbeans-ng
+  host: javanetbeansng
+  disk_quota: 1024M
+ 
