@@ -1,5 +1,5 @@
 applications:
-- path: dist/PruebaSpring.war
+- path: build.xml
   memory: 512M
   instances: 1
   domain: mybluemix.net
